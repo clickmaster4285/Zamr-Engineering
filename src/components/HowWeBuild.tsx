@@ -165,7 +165,7 @@ export function HowWeBuild() {
               </AnimatePresence>
             </div>
 
-            <div className="mt-6 md:mt-8 max-w-xl">
+            <div className="mt-6 md:mt-8 ">
               <AnimatePresence mode="wait">
                 <motion.p
                   key={items[active].title}

@@ -44,8 +44,8 @@ function Index() {
 
       <HowWeBuild />
       <PinnedReveal />
-      <Sectors />
-      <Process />
+      {/* <Sectors />
+      <Process /> */}
       <Projects />
       <WhyUs />
       <CTAFooter />
